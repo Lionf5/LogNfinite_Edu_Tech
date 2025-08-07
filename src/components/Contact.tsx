@@ -33,7 +33,7 @@ const Contact = () => {
     {
       icon: <Mail className="w-6 h-6" />,
       title: "Email",
-      content: "info@loginfinite.com",
+      content: "admin@loginfinite.com",
       subContent: "We reply within 24 hours"
     },
     {
