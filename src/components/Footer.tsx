@@ -60,15 +60,15 @@ const Footer = () => {
             <div className="space-y-3">
               <div className="flex items-center space-x-3 text-gray-400">
                 <Mail className="w-4 h-4" />
-                <span className="text-sm">info@loginfinite.com</span>
+                <span className="text-sm">admin@loginfinite.com</span>
               </div>
               <div className="flex items-center space-x-3 text-gray-400">
                 <Phone className="w-4 h-4" />
-                <span className="text-sm">+91 98765 43210</span>
+                <span className="text-sm">+91 93917 73770</span>
               </div>
               <div className="flex items-center space-x-3 text-gray-400">
                 <MapPin className="w-4 h-4" />
-                <span className="text-sm">Bangalore, Karnataka</span>
+                <span className="text-sm">Guntur, Andhra Pradesh</span>
               </div>
             </div>
           </div>
