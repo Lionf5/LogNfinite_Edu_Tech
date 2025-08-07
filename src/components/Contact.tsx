@@ -27,8 +27,8 @@ const Contact = () => {
     {
       icon: <Phone className="w-6 h-6" />,
       title: "Phone",
-      content: "+91 98765 43210",
-      subContent: "Mon-Fri 9AM-6PM"
+      content: "+91 93917 73770",
+      subContent: "Mon-Fri 10AM-5PM"
     },
     {
       icon: <Mail className="w-6 h-6" />,
@@ -39,14 +39,14 @@ const Contact = () => {
     {
       icon: <MapPin className="w-6 h-6" />,
       title: "Address",
-      content: "123 Tech Park, Bangalore",
-      subContent: "Karnataka, India 560001"
+      content: "Lakshmipuram, Guntur",
+      subContent: "Andhra Pradesh, India 522007"
     },
     {
       icon: <Clock className="w-6 h-6" />,
       title: "Working Hours",
       content: "Monday - Friday",
-      subContent: "9:00 AM - 6:00 PM IST"
+      subContent: "10:00 AM - 5:00 PM IST"
     }
   ];
 
