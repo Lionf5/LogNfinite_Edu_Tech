@@ -10,7 +10,7 @@ const Hero = () => {
             <div className="space-y-4">
               <div className="inline-flex items-center space-x-2 bg-blue-100 text-blue-800 px-4 py-2 rounded-full text-sm font-medium">
                 <Award className="w-4 h-4" />
-                <span>Trusted by 1000+ Students</span>
+                <span>Trusted by 10,000+ Students</span>
               </div>
               <h1 className="text-5xl lg:text-6xl font-bold text-gray-900 leading-tight">
                 Transform Your
