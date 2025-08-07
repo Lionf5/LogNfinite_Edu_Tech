@@ -3,7 +3,7 @@ import { CheckCircle, Users, Trophy, Globe } from 'lucide-react';
 
 const About = () => {
   const achievements = [
-    { icon: <Users className="w-6 h-6" />, number: "10,000+", label: "Students Trained" },
+    { icon: <Users className="w-6 h-6" />, number: "10,00+", label: "Students Trained" },
     { icon: <Trophy className="w-6 h-6" />, number: "95%", label: "Job Placement Rate" },
     { icon: <Globe className="w-6 h-6" />, number: "50+", label: "Countries Reached" },
     { icon: <CheckCircle className="w-6 h-6" />, number: "500+", label: "Corporate Partners" }
