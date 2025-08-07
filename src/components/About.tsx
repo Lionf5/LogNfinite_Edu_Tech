@@ -34,7 +34,7 @@ const About = () => {
         <div className="grid lg:grid-cols-2 gap-16 items-center">
           <div>
             <h2 className="text-4xl font-bold text-gray-900 mb-6">
-              Empowering Learners Since 2018
+              Empowering Learners Since 2024
             </h2>
             <p className="text-lg text-gray-600 mb-6">
               LogiNfinite Learning Solutions was founded with a simple yet powerful vision: to make 
