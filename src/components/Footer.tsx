@@ -34,7 +34,7 @@ const Footer = () => {
     { icon: <Facebook className="w-5 h-5" />, href: "#", name: "Facebook" },
     { icon: <Twitter className="w-5 h-5" />, href: "#", name: "Twitter" },
     { icon: <LinkedIn className="w-5 h-5" />, href: "https://www.linkedin.com/company/code-with-techy/", name: "LinkedIn" },
-    { icon: <Instagram className="w-5 h-5" />, href: "#", name: "Instagram" },
+    { icon: <Instagram className="w-5 h-5" />, href: "https://www.instagram.com/loginfinite_learning_solutions/", name: "Instagram" },
     { icon: <Youtube className="w-5 h-5" />, href: "#", name: "YouTube" }
   ];
 
