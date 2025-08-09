@@ -49,7 +49,7 @@ const Footer = () => {
                 <BookOpen className="w-6 h-6 text-white" />
               </div>
               <div className="flex flex-col">
-                <h3 className="text-xl font-bold">LogiNfinite</h3>
+                <h3 className="text-xl font-bold">LogNfinite</h3>
                 <p className="text-sm text-gray-400 -mt-1">Learning Solutions</p>
               </div>
             </div>
@@ -151,7 +151,7 @@ const Footer = () => {
         <div className="border-t border-gray-800 pt-8 mt-12">
           <div className="flex flex-col md:flex-row justify-between items-center space-y-4 md:space-y-0">
             <div className="text-gray-400 text-sm">
-              © 2024 LogiNfinite Learning Solutions. All rights reserved.
+              © 2024 LogNfinite Learning Solutions. All rights reserved.
             </div>
             <div className="flex space-x-6">
               {socialLinks.map((social, index) => (
