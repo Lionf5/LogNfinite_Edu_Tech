@@ -6,18 +6,18 @@ const Testimonials = () => {
     {
       id: 1,
       name: "Priya Sharma",
-      role: "Software Engineer at Google",
+      role: "Software Engineer at TCS",
       image: "https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg?auto=compress&cs=tinysrgb&w=400",
-      content: "The Full-Stack Web Development course completely transformed my career. The instructors were incredibly knowledgeable, and the hands-on projects gave me the confidence to land my dream job at Google.",
+      content: "The Full-Stack Web Development course completely transformed my career. The instructors were incredibly knowledgeable, and the hands-on projects gave me the confidence to land my dream job at TCS.",
       rating: 5,
       course: "Full-Stack Web Development"
     },
     {
       id: 2,
       name: "Rajesh Kumar",
-      role: "Data Scientist at Microsoft",
+      role: "Data Scientist at EY",
       image: "https://images.pexels.com/photos/2379004/pexels-photo-2379004.jpeg?auto=compress&cs=tinysrgb&w=400",
-      content: "I was completely new to data science when I started. The course structure was perfect for beginners, and now I'm working as a Data Scientist at Microsoft. Best investment I've ever made!",
+      content: "I was completely new to data science when I started. The course structure was perfect for beginners, and now I'm working as a Data Scientist at EY. Best investment I've ever made!",
       rating: 5,
       course: "Data Science & Analytics"
     },
