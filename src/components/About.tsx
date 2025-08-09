@@ -37,7 +37,7 @@ const About = () => {
               Empowering Learners Since 2024
             </h2>
             <p className="text-lg text-gray-600 mb-6">
-              LogiNfinite Learning Solutions was founded with a simple yet powerful vision: to make 
+              LogNfinite Learning Solutions was founded with a simple yet powerful vision: to make 
               world-class education accessible to everyone, everywhere. We believe that learning should 
               be engaging, practical, and directly applicable to real-world challenges.
             </p>

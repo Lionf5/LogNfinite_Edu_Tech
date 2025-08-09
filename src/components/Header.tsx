@@ -13,7 +13,7 @@ const Header = () => {
               <BookOpen className="w-6 h-6 text-white" />
             </div>
             <div className="flex flex-col">
-              <h1 className="text-xl font-bold text-gray-900">LogiNfinite</h1>
+              <h1 className="text-xl font-bold text-gray-900">LogNfinite</h1>
               <p className="text-xs text-gray-600 -mt-1">Learning Solutions</p>
             </div>
           </div>

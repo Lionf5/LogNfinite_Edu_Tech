@@ -68,7 +68,7 @@ const Testimonials = () => {
           </h2>
           <p className="text-xl text-gray-600 max-w-3xl mx-auto">
             Hear from our students who have transformed their careers and achieved their dreams 
-            with LogiNfinite Learning Solutions.
+            with LogNfinite Learning Solutions.
           </p>
         </div>
 
